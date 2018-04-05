@@ -1,21 +1,17 @@
-> 1. Fork+clone this repo
-> 2. Set your gh-pages to build from master branch
-> 3. Put a link to the tests in your repo's description
-> 4. Choose a Codewar Kata to study
-> 5. Go through the repo and fill in every blank
-> 6. Publish and include this repo in your Codewar Gallery
+# [String Reverser](https://www.codewars.com/kata/string-repeat/train/javascript)
+
+Simple still, I'm only doing 8's. It repeats a string over and over.
+
+String_Repeat: Function
+* Args: 2
+  1. Number: used to determine how many duplicates to make
+  2. String: the thing that's duplicated
+* Return: String
+  * The argument string concatinated to itself "String" many times
+* Behavior: The function takes in a number and a string, it copies the string x nubmer of times where x is the first argument to the function.  It will return those copies stuck together in a single string
 
 
-# [<challenge name>](https://www.codewars.com/kata/<challenge name>)
 
-Explain the challenge as completely as you can.
-
-<function name>: Function
-* Args: (how many args does this function take?)
-  * (List each arg, it's type, and it's purpose)
-* Return: (what type does this function return?)
-  * (Describe the return value)
-* Behavior: (What does this function do?)
 
 
 ### Index
@@ -54,7 +50,6 @@ Explain your solution in detail, however works for you.  Perhaps by using a spec
 
 List and explain the constraints you placed on your solution.
 
-
 [TOP](#index)
 ___
 
@@ -71,7 +66,14 @@ Keeping track of the language features you use will enable you separate the prob
 ---
 ## Uses
 
-List some applications or use cases for your solution.  Try for 3-5.
+* annoying sister bot
+* anti-publishing
+* informative error logging
+* virtual measuring tape
+* UI dummy text
+* dynamically generating html 
+  * ie. portfolio project boxes
+* 
 
 
 [TOP](#index)
